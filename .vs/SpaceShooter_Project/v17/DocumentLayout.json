@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AB4417-A05A-F395-1363-15BB1A29EFF2}|Assembly-CSharp.csproj|c:\\users\\duy anh\\spaceshooter_project\\assets\\space shooter template free\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AB4417-A05A-F395-1363-15BB1A29EFF2}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AB4417-A05A-F395-1363-15BB1A29EFF2}|Assembly-CSharp.csproj|c:\\users\\duy anh\\spaceshooter_project\\assets\\space shooter template free\\scripts\\blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AB4417-A05A-F395-1363-15BB1A29EFF2}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AB4417-A05A-F395-1363-15BB1A29EFF2}|Assembly-CSharp.csproj|C:\\Users\\Duy Anh\\SpaceShooter_Project\\assets\\space shooter template free\\scripts\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AB4417-A05A-F395-1363-15BB1A29EFF2}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:19:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blinking.cs",
+              "DocumentMoniker": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "ToolTip": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:13:11.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowLog.cs",
+              "DocumentMoniker": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\Assets\\Space Shooter Template FREE\\Scripts\\ShowLog.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\ShowLog.cs",
+              "ToolTip": "C:\\Users\\Duy Anh\\SpaceShooter_Project\\Assets\\Space Shooter Template FREE\\Scripts\\ShowLog.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\ShowLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:04:00.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
