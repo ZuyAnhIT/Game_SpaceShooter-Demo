@@ -335,6 +335,7 @@ GameObject:
   - component: {fileID: 2084303603}
   - component: {fileID: 2084303602}
   - component: {fileID: 2084303604}
+  - component: {fileID: 2084303605}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -403,7 +404,7 @@ Transform:
   m_GameObject: {fileID: 2084303601}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15, y: 0.83, z: 0}
+  m_LocalPosition: {x: 0.03, y: 0.68, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -422,6 +423,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53784c3970331204cb86e7d0e5117067, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2084303605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084303601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6dd1e3feb7ac204984aafa1e787b673, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 7496269834003439559, guid: 4f1ed519e3138ef4daf68e7620d185c5,
+    type: 3}
+  fireDelay: 0.1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
