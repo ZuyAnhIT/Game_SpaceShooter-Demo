@@ -7,7 +7,7 @@ public class Blinking : MonoBehaviour
 
     void Start()
     {
-        // Tự động tìm component SpriteRenderer gắn trên cùng object này
+        // Tự động tìm component SpriteRenderer gắn trên cùng object 
         mySprite = GetComponent<SpriteRenderer>();
     }
 
